@@ -10,4 +10,10 @@ Demo video: https://www.youtube.com/watch?v=HdANo-QrEiY&feature=youtu.be
 
 To use this set up:
 
+- Make sure you have python3 downloaded and well as python-osc and pyserial
+- Plug your microbit in with the USB cable and upload the microbit-writeXYZ-fastandugly.hex file to it which can be done with a simple drag and drop
+- Open and run the Processing_TriggerTextAndSound_1DTW file and run the python script by using the terminal command 'python3 wand_to_osc.py'
+- Now you can run the DeMay_Spellcasting.wekproj file via Wekinator
+- At this point you should be able to see different outputs for wand gestures, and you can retrain the model as you see fit
+
 
